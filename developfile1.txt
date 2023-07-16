@@ -1,3 +1,4 @@
 Hi this is development file.
 
 let's learn stash
+before learn stash lets learn git diff command
