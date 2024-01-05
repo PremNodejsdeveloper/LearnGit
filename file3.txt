@@ -1,3 +1,5 @@
 This is file1.txt
 
 learning git diff command
+
+Again learning
