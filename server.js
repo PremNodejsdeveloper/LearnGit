@@ -6,10 +6,6 @@ app.get("/", (request, response) => {
   response.end("you are at home page");
 });
 
-app.get("/home", (request, response) => {
-  response.end("you are at home page");
-});
-
 app.listen(port, () => {
   console.log(`server is listening at port ${port}`);
 });
